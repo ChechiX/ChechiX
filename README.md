@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Julio Anccasi @ChechiX
-- 👀 I’m interested in coding and videogames!
+- 👀 I’m interested in Coding and Video Games!
 - 🌱 I’m currently learning a lot of stuff
 
 <!---
